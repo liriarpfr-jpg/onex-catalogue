@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-21T04:53:23.8404722Z",
+  "games": [
+    {
+      "id": "grand-theft-auto-vi-f4e8",
+      "title": "Grand Theft Auto VI",
+      "description": "Grand Theft Auto VI",
+      "hidden": false,
+      "tag": "PS5",
+      "tile": "images/grand-theft-auto-vi-f4e8/tile-20261120090520860.png",
+      "background": "images/grand-theft-auto-vi-f4e8/background-20261120090703115.jpg",
+      "logo": "images/grand-theft-auto-vi-f4e8/logo-20261120090520916.png",
+      "card": "images/grand-theft-auto-vi-f4e8/card-20261120090520988.jpg",
+      "video": "videos/grand-theft-auto-vi-f4e8/intro-20261120090520993.mp4",
+      "videoUrl": "https://github.com/liriarpfr-jpg/onex-catalogue/releases/download/onex-videos/grand-theft-auto-vi-f4e8-intro-20261120090520993.mp4",
+      "cardHeader": "Disponible en pr\u00E9commande",
+      "cardEdition": "\u00C9DITION STANDARD",
+      "cardBadge": "Jeu",
+      "cardPrice": "100",
+      "label1": "Progression",
+      "value1": "0 %",
+      "label2": "R\u00E9compenses",
+      "value2": "0/0"
+    }
+  ]
+}
